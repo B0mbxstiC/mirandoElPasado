@@ -1,4 +1,4 @@
-package ejercicioUno;
+package mirandoElPasado_DesafioOpcional;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -10,7 +10,7 @@ import java.util.TreeSet;
 
 public class Main {
 	public static void main(String[] args) {
-
+		//Definiendo ArrayList y agregándole elementos
 		ArrayList<String> marcas = new ArrayList<>();
 		marcas.add("Nike");
 		marcas.add("Adidas");
